@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Please cite the specific version of this results cross-check package. No DOI has been assigned."
+title: "Service State Accounting and Independent Verification in Mobile Energy Storage Scheduling Results"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-30
+authors:
+  - family-names: Dong
+    given-names: Mingming
+  - family-names: Chen
+    given-names: Ge
+  - family-names: Chen
+    given-names: Wei
+  - family-names: Deng
+    given-names: Puhe
+repository-code: "https://github.com/milestonedad-lang/iet-smart-grid-reproducibility"

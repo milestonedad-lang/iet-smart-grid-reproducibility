@@ -1,0 +1,13 @@
+{
+  "formal_trajectories": 192,
+  "formal_epochs": 6912,
+  "selected_plan_records": 5184,
+  "conservative_certificate_counts": 69,
+  "conditional_versus_realized_differences": 460,
+  "pilot_suffixes": 12,
+  "pilot_pairs": 6,
+  "pilot_service_ties": 6,
+  "pilot_energy_worse_pairs": 3,
+  "independent_disaster_samples": false,
+  "general_algorithmic_superiority_established": false
+}
